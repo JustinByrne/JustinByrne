@@ -50,4 +50,4 @@
 [website]: https://tech.jrlbyrne.com
 [twitter]: https://twitter.com/JustinBTechGuy
 [patreon]: https://www.patreon.com/JRLByrneTech
-[linkedin]: www.linkedin.com/in/JustinBTechGuy
+[linkedin]: https://www.linkedin.com/in/JustinBTechGuy
