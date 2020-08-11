@@ -31,7 +31,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 <br />
 <br />
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinByrne&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinByrne&layout=compact&hide_border=true)
 
 ---
 
@@ -46,7 +46,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 
 ---
 
-![JustinByrne's github stats](https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&count_private=true&theme=dracula)
+![JustinByrne's github stats](https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&count_private=true&hide_border=true)
 
 [website]: https://tech.jrlbyrne.com
 [twitter]: https://twitter.com/JustinBTechGuy
