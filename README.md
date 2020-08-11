@@ -33,9 +33,6 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinByrne&layout=compact&theme=dracula)
 
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog posts
