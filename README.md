@@ -2,7 +2,7 @@
 
 I'm a self motivated tech enthusiasts. Spending more than half my life dedicated to the tech industry. I built my first computer at the age of 11, and have been building ever since. My interests have changed across the years from system building to web programming and even a dab of software engineering, and just like my interests, my operating system has changed, sometimes more then 4 times a year.
 
-**Current OS: Pop OS 20.10**
+**Current OS: Pop OS 21.04**
 
 ### Connect with me:
 
