@@ -57,7 +57,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ---
-
+<!-- 
 ### 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -68,7 +68,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 - [OverTheWire Bandit Write Up – Level 21](https://tech.jrlbyrne.com/2020/01/overthewire-bandit-level-21/)
 <!-- BLOG-POST-LIST:END -->
 
----
+--- -->
 
 ![JustinByrne's github stats](https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&count_private=true&hide_border=true)
 
