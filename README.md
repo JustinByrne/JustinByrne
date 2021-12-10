@@ -6,26 +6,26 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 
 ### Connect with me:
 
-
-
 - [Website](https://tech.jrlbyrne.com/)
 - [Twitter](https://www.twitter.com/JustinBTechGuy)
 - [LinkedIn](https://www.linkedin.com/in/JustinBTechGuy)
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/HTML%205-282C34?style=flat&logo=html5&logoColor=E34F26" alt="HTML 5" title="HTML 5" height="25" />
-<img src="https://img.shields.io/badge/CSS%203-282C34?style=flat&logo=css3&logoColor=1572B6" alt="CSS 3" title="CSS 3" height="25" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=flat&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" title="Tailwind CSS" height="25" />
-<img src="https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript&logoColor=F7DF1E" alt="Javascript" title="Javascript" height="25" />
-<img src="https://img.shields.io/badge/Alpine.js-282C34?style=flat&logo=alpine.js&logoColor=8BC0D0" alt="Alpine.js" title="Alpine.js" height="25" />
-<img src="https://img.shields.io/badge/PHP-282C34?style=flat&logo=php&logoColor=777BB4" alt="PHP" title="PHP" height="25" />
-<img src="https://img.shields.io/badge/Laravel-282C34?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" title="Laravel" height="25" />
-<img src="https://img.shields.io/badge/Livewire-282C34?style=flat&logo=livewire&logoColor=4E56A6" alt="Livewire" title="Livewire" height="25" />
-<img src="https://img.shields.io/badge/MySQL-282C34?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />
-<img src="https://img.shields.io/badge/Git-282C34?style=flat&logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />
-<img src="https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />
+<a name="langs"></a>
+
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />][langs]
+[<img src="https://img.shields.io/badge/HTML%205-282C34?style=flat&logo=html5&logoColor=E34F26" alt="HTML 5" title="HTML 5" height="25" />][langs]
+[<img src="https://img.shields.io/badge/CSS%203-282C34?style=flat&logo=css3&logoColor=1572B6" alt="CSS 3" title="CSS 3" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=flat&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" title="Tailwind CSS" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript&logoColor=F7DF1E" alt="Javascript" title="Javascript" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Alpine.js-282C34?style=flat&logo=alpine.js&logoColor=8BC0D0" alt="Alpine.js" title="Alpine.js" height="25" />][langs]
+[<img src="https://img.shields.io/badge/PHP-282C34?style=flat&logo=php&logoColor=777BB4" alt="PHP" title="PHP" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Laravel-282C34?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" title="Laravel" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Livewire-282C34?style=flat&logo=livewire&logoColor=4E56A6" alt="Livewire" title="Livewire" height="25" />][langs]
+[<img src="https://img.shields.io/badge/MySQL-282C34?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />][langs]
+[<img src="https://img.shields.io/badge/Git-282C34?style=flat&logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />][langs]
+[<img src="https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />][langs]
 
 <br />
  
@@ -61,3 +61,5 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 ### 📕 Latest Blog posts
 
 --- -->
+
+[langs]: #langs
