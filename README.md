@@ -6,7 +6,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 
 ### Connect with me:
 
-- [Website](https://tech.jrlbyrne.com/)
+- [Website](https://justinbyrne.dev/)
 - [Twitter](https://www.twitter.com/JustinBTechGuy)
 - [LinkedIn](https://www.linkedin.com/in/JustinBTechGuy)
 
