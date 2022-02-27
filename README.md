@@ -2,7 +2,7 @@
 
 I'm a self motivated tech enthusiasts. Spending more than half my life dedicated to the tech industry. I built my first computer at the age of 11, and have been building ever since. My interests have changed across the years from system building to web programming and even a dab of software engineering, and just like my interests, my operating system has changed, sometimes more then 4 times a year.
 
-**Current OS: <img src="https://img.shields.io/badge/Pop!__OS%2020.10-282C34?style=flat&logo=popos&logoColor=48B9C7" alt="Pop! OS 20.10" title="Pop!_OS" height="25" />**
+**Current OS: <img src="https://img.shields.io/badge/Pop!__OS%2021.10-282C34?style=flat&logo=popos&logoColor=48B9C7" alt="Pop! OS 21.10" title="Pop!_OS" height="25" />**
 
 ### Connect with me:
 
@@ -55,11 +55,5 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [Tabletop Simulator Lua](https://marketplace.visualstudio.com/items?itemName=rolandostar.tabletopsimulator-lua)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-
-<!-- 
----
-### 📕 Latest Blog posts
-
---- -->
 
 [langs]: #langs
