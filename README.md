@@ -2,7 +2,7 @@
 
 I'm a self motivated tech enthusiasts. Spending more than half my life dedicated to the tech industry. I built my first computer at the age of 11, and have been building ever since. My interests have changed across the years from system building to web programming and even a dab of software engineering, and just like my interests, my operating system has changed, sometimes more then 4 times a year.
 
-**Current OS: <img src="https://img.shields.io/badge/Pop!__OS%2022.04-282C34?style=flat&logo=popos&logoColor=48B9C7" alt="Pop! OS 21.10" title="Pop!_OS" height="25" />**
+**Current OS: <img src="https://img.shields.io/badge/Pop!__OS%2022.04-282C34?style=flat&logo=popos&logoColor=48B9C7" alt="Pop! OS 22.04" title="Pop!_OS" height="25" />**
 
 ### Connect with me:
 
