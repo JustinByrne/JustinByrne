@@ -38,7 +38,6 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 ### 🧑🏻‍💻 Visual Studio Code Extensions
 
 - [Database client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
-- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
