@@ -1,39 +1,45 @@
-### Hi I'm Justin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Byrne
+====================================================================================================================================
+
+Web Developer
+-------------
 
 I'm a self motivated tech enthusiasts. Spending more than half my life dedicated to the tech industry. I built my first computer at the age of 11, and have been building ever since. My interests have changed across the years from system building to web development and even a dab of software engineering, and just like my interests, my operating system has changed, sometimes more then 4 times a year.
 
-**Current OS: <img src="https://img.shields.io/badge/Pop!__OS%2022.04-282C34?style=flat&logo=popos&logoColor=48B9C7" alt="Pop! OS 22.04" title="Pop!_OS" height="25" />**
+* 🌍  I'm based in United Kingdom
+* 🖥️  See my portfolio at [JustinByrne.dev](http://JustinByrne.dev)
+* 🧠  I'm learning Laravel, Tailwindcss, Alpine.js, Livewire
+* 💻  I'm currently using PopOS! 22.04 on my laptop
 
-### Connect with me:
+### Skills
 
-- [Website](https://justinbyrne.dev/)
-- [Twitter](https://www.twitter.com/JustinBTechGuy)
-- [LinkedIn](https://www.linkedin.com/in/JustinBTechGuy)
 
-### Languages and Tools:
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<a name="langs"></a>
 
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />][langs]
-[<img src="https://img.shields.io/badge/HTML%205-282C34?style=flat&logo=html5&logoColor=E34F26" alt="HTML 5" title="HTML 5" height="25" />][langs]
-[<img src="https://img.shields.io/badge/CSS%203-282C34?style=flat&logo=css3&logoColor=1572B6" alt="CSS 3" title="CSS 3" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=flat&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" title="Tailwind CSS" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript&logoColor=F7DF1E" alt="Javascript" title="Javascript" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Alpine.js-282C34?style=flat&logo=alpine.js&logoColor=8BC0D0" alt="Alpine.js" title="Alpine.js" height="25" />][langs]
-[<img src="https://img.shields.io/badge/PHP-282C34?style=flat&logo=php&logoColor=777BB4" alt="PHP" title="PHP" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Laravel-282C34?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" title="Laravel" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Livewire-282C34?style=flat&logo=livewire&logoColor=4E56A6" alt="Livewire" title="Livewire" height="25" />][langs]
-[<img src="https://img.shields.io/badge/MySQL-282C34?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />][langs]
-[<img src="https://img.shields.io/badge/Git-282C34?style=flat&logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />][langs]
-[<img src="https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />][langs]
+### Socials
 
-<br />
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinByrne&layout=compact&hide_border=true)
+<p align="left"> <a href="https://www.github.com/JustinByrne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/JustinBTechGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JustinBTechGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![JustinByrne's github stats](https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&count_private=true&hide_border=true)
 
----
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JustinByrne"><img src="https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JustinByrne's GitHub stats" /></a>
+
+<a href="http://www.github.com/JustinByrne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinByrne&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 ### 🧑🏻‍💻 Visual Studio Code Extensions
 
