@@ -9,7 +9,7 @@ I'm a self motivated tech enthusiasts. Spending more than half my life dedicated
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [JustinByrne.dev](http://JustinByrne.dev)
 * 🧠  I'm learning Laravel, Tailwindcss, Alpine.js, Livewire
-* 💻  I'm currently using PopOS! 22.04 on my laptop
+* 💻  I'm currently using Ubuntu 24.04 on my laptop
 
 ### Skills
 
